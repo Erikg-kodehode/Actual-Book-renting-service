@@ -1,0 +1,28 @@
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\appsettings.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\Actual Book renting service.staticwebassets.endpoints.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\Actual Book renting service.exe
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\Actual Book renting service.deps.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\Actual Book renting service.runtimeconfig.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\Actual Book renting service.dll
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\bin\Debug\net9.0\Actual Book renting service.pdb
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.AssemblyInfoInputs.cache
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.AssemblyInfo.cs
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.csproj.CoreCompileInputs.cache
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\scopedcss\bundle\Actual Book renting service.styles.css
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets\msbuild.Actual Book renting service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets\msbuild.Actual Book renting service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets\msbuild.build.Actual Book renting service.props
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Actual Book renting service.props
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Actual Book renting service.props
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.dll
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\refint\Actual Book renting service.dll
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.pdb
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\Actual Book renting service.genruntimeconfig.cache
+C:\Users\erikg\Documents\Dev\Uke 3\Actual Book renting service\obj\Debug\net9.0\ref\Actual Book renting service.dll
